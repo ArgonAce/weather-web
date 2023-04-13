@@ -27,7 +27,7 @@ Terdapat informasi cuaca berupa persentase awan, suhu yang dirasakan, dan kelemb
 
 ## Cara menggunakan
 
-1. Buka Web Cuaca dengan mengeklik tautan URL berikut: <a href="https://weather.vercel.app">weather.vercel.app</a>.
+1. Buka Web Cuaca dengan mengeklik tautan URL berikut: <a href="https://weather-web-jade.vercel.app/">weather.vercel.app</a>.
 2. Halaman beranda aplikasi akan ditampilkan, dan Anda akan melihat bilah navigasi di bagian atas halaman dengan tautan ke Beranda, Tentang Situs Web ini, dan Panduan Pengguna.
 3. Untuk mencari cuaca di suatu kota, masukkan nama kota pada kolom teks di bagian atas halaman dan klik tombol Cari.
 4. Situs web akan mengambil informasi cuaca untuk kota yang ditentukan dan menampilkannya di halaman.
