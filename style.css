@@ -1,0 +1,38 @@
+body {
+    background-image: url("img/bg.png");
+    background-size: cover; /* atau background-size: contain; */
+    background-position: center center; /* sesuaikan posisi sesuai kebutuhan */
+    opacity: 0.9; /* nilai opacity untuk membuat background transparan (0.0 - 1.0) */
+}
+
+.card-body1 {
+    background-image: url("img/temperatures.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+    color: black;
+    height: 300px;
+}
+
+.card-body2 {
+    background-image: url("img/humidity.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+    color: black;
+    height: 300px;
+}
+
+.card-body3 {
+    background-image: url("img/wind.jpg");
+    opacity: 0.8;
+    font-weight: bold;
+    color: black;
+    height: 300px;
+}
+
+.text-start {
+    color: white;
+}
+
+.text-color {
+    color: white;
+}
